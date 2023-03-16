@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dubeyaman905@gmail.com**
 
-- 📄 Know about my experiences [https://aman-dubey-01.github.io/Portfolio/logo/Resume.pdf](https://aman-dubey-01.github.io/Portfolio/logo/Resume.pdf)
+<!-- - 📄 Know about my experiences [https://aman-dubey-01.github.io/Portfolio/logo/Resume.pdf](https://aman-dubey-01.github.io/Portfolio/logo/Resume.pdf) -->
 
 - ⚡ Fun fact **Am I Smart?**
 
