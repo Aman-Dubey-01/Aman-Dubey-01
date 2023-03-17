@@ -2,7 +2,7 @@
 ![logo](https://github.com/Aman-Dubey-01/Aman-Dubey-01/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Aman Dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="360" height="250" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-dubey-01&label=Profile%20views&color=0e75b6&style=flat" alt="aman-dubey-01" /> </p>
 
