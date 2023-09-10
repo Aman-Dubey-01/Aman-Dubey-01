@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-dubey-01&label=Profile%20views&color=0e75b6&style=flat" alt="aman-dubey-01" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning **React, Redux, UI/UX**<br><br>👨‍💻 All of my projects are available at https://aman-dubey-01.github.io/Portfolio/<br><br>📫 How to reach me dubeyaman905@gmail.com<br><br>⚡ Fun fact Am I Smart?
+🌱 I’m currently learning **React, Redux, UI/UX**<br><br>👨‍💻 All of my projects are available at https://dubeyaman.netlify.app/<br><br>📫 How to reach me dubeyaman905@gmail.com<br><br>⚡ Fun fact Am I Smart?
 
 
 ## 🌐 Socials:
