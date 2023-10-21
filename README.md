@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Aman-Dubey-01/Aman-Dubey-01/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aman Dubey</h1>
 <h3 align="center">Frontend developer</h3>
 
@@ -9,9 +9,6 @@
 - 👨‍💻 All of my projects are available at [https://dubeyaman.netlify.app/](https://dubeyaman.netlify.app/)
 
 - 📫 How to reach me **dubeyaman905@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Xi6Za-dQdpJrVf8sv6RrBqLpVJkdmRbd/view?usp=sharing](https://drive.google.com/file/d/1Xi6Za-dQdpJrVf8sv6RrBqLpVJkdmRbd/view?usp=sharing)
-
 
 <br>
 </div><h3 align="left">Connect with me:</h3>
