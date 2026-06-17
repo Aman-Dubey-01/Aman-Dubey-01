@@ -2,6 +2,8 @@
   <img src="./new-banner.png" alt="Aman Dubey — Software Development Engineer" width="100%" />
 </p>
 
+---
+
 > **Production work note:** Most of my day-to-day engineering activity is tied to company-managed/private repositories.  
 > Active work GitHub: [@amandubey01](https://github.com/amandubey01)
 
