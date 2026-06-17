@@ -108,19 +108,6 @@ Forge is a deployed Next.js fitness platform built around workout history, AI co
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman-Dubey-01&show_icons=true&theme=github_dark&hide_border=true" alt="Aman's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Dubey-01&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Dubey-01&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## Connect
 
 <p>
