@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="./new-banner.png" alt="Aman Dubey — Software Development Engineer" width="100%" />
+  <img src="./banner.png" alt="Aman Dubey — Software Development Engineer" width="100%" />
 </p>
 
----
-
-> **Production work note:** Most of my day-to-day engineering activity is tied to company-managed/private repositories.  
+> [!NOTE]
+> Most of my production contribution history is tied to company-managed/private repositories.  
 > Active work GitHub: [@amandubey01](https://github.com/amandubey01)
 
 ---
 
+## About
 ## About
 
 I’m a **Software Development Engineer** with **2.5+ years of production experience** building web products with **Next.js, React, and TypeScript**.
