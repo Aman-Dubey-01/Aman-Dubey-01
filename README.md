@@ -1,26 +1,6 @@
 <p align="center">
   <img src="./new-banner.png" alt="Aman Dubey — Software Development Engineer" width="100%" />
 </p>
-<h1 align="center">Aman Dubey</h1>
-
-<p align="center">
-  <strong>Software Development Engineer</strong><br />
-  Next.js · React · TypeScript · AI Workflows · Backend Systems
-</p>
-
-<p align="center">
-  <a href="https://dubeyaman.netlify.app/">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/aman-dubey-me/">LinkedIn</a>
-  ·
-  <a href="mailto:dubeyaman905@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aman-Dubey-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
 
 ## About
 
