@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./new-banner.png" alt="Aman Dubey — Software Development Engineer" width="100%" />
+</p>
 <h1 align="center">Aman Dubey</h1>
 
 <p align="center">
