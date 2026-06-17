@@ -1,57 +1,137 @@
-![logo](https://github.com/Aman-Dubey-01/Aman-Dubey-01/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Aman Dubey</h1>
-<h3 align="center">Frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-dubey-01&label=Profile%20views&color=0e75b6&style=flat" alt="aman-dubey-01" /> </p>
+<h1 align="center">Aman Dubey</h1>
 
-- 🌱 I’m currently learning **MERN Full-Stack Development**
-
-- 👨‍💻 All of my projects are available at [https://dubeyaman.netlify.app/](https://dubeyaman.netlify.app/)
-
-- 📫 How to reach me **dubeyaman905@gmail.com**
-
-<br>
-</div><h3 align="left">Connect with me:</h3>
-<div> <a href="https://twitter.com/aman25dubey" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/aman-dubey-me" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Aman-Dubey-01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/amandubey.25" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:dubeyaman905@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<p align="center">
+  <strong>Software Development Engineer</strong><br />
+  Next.js · React · TypeScript · AI Workflows · Backend Systems
 </p>
 
-<h3 align="left">Stars</h3>
-<br>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Dubey-01&layout=compact&theme=radical" alt=Aman-Dubey-01 />
+<p align="center">
+  <a href="https://dubeyaman.netlify.app/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/aman-dubey-me/">LinkedIn</a>
+  ·
+  <a href="mailto:dubeyaman905@gmail.com">Email</a>
+</p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Dubey-01&theme=radical" alt="Aman-Dubey-01" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman-Dubey-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Aman-Dubey-01">
-<br>
-  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman-Dubey-01&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman-Dubey-01&theme=2077" height="180em" />
-  <br>
-  <br>
-  <div />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-Dubey-01&theme=aura" height="180em" />
-</div>
+---
+
+## About
+
+I’m a **Software Development Engineer** with **2.5+ years of production experience** building web products with **Next.js, React, and TypeScript**.
+
+Most of my work sits between **frontend architecture** and **product infrastructure** — AI workflows, search systems, payments, caching, data flows, SEO infrastructure, and performance-sensitive user interfaces.
+
+Currently working on production systems at **Multibagg AI**, building tools for investor research and financial data workflows.
+
+---
+
+## Engineering Focus
+
+- Building production-grade web products with **Next.js, React, and TypeScript**
+- Designing frontend systems for data-heavy, user-facing products
+- Working across AI workflows, streaming responses, search, and validation systems
+- Building backend workflows with APIs, PostgreSQL, Prisma, Redis, and caching layers
+- Shipping product infrastructure around payments, SEO, analytics, and performance
+
+---
+
+## Tech Stack
+
+### Core
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/SWR-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive_UI-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-374151?style=for-the-badge" />
+</p>
+
+### Backend & Data
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/REST_APIs-374151?style=for-the-badge" />
+</p>
+
+### Product Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Razorpay-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Webhooks-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SEO_Systems-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analytics-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## Work Highlights
+
+### Software Development Engineer · Multibagg AI
+
+Worked across frontend architecture, AI workflows, financial research products, payments, search, SEO, caching, and backend data systems.
+
+Key areas of ownership:
+
+- **AI Research Systems** — streaming AI chat, session history, document workflows, intelligent routing, and research search flows.
+- **Financial Product Interfaces** — stock, IPO, ETF, and index research experiences for investor-facing analytics.
+- **Payments & Subscriptions** — Razorpay-powered subscriptions, webhooks, refunds, lifecycle handling, and reconciliation.
+- **Search & Discovery** — dynamic pages, metadata, Open Graph, sitemap systems, autocomplete, and company discovery flows.
+- **Performance & Data Infrastructure** — Redis caching, request deduplication, SWR data flows, scheduled jobs, and backend pipelines.
+
+---
+
+## Featured Project
+
+### Forge
+
+**AI fitness operating system**
+
+Forge is a deployed Next.js fitness platform built around workout history, AI coaching, structured analytics, recommendation logic, and validated workout generation.
+
+- **Stack:** Next.js, React, TypeScript
+- **Focus:** AI coaching, workout intelligence, recommendation systems, validation pipelines
+- **Live:** https://forge-omega-two.vercel.app/
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman-Dubey-01&show_icons=true&theme=github_dark&hide_border=true" alt="Aman's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Dubey-01&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Dubey-01&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://dubeyaman.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aman-dubey-me/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dubeyaman905@gmail.com">
+    <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
